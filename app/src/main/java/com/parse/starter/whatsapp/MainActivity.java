@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     String testString;
     String newString;
-    
+
     //  onCreate
     @Override
     protected void onCreate(Bundle savedInstanceState) {
