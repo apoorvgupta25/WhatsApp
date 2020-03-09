@@ -36,7 +36,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     Boolean signUpModeActive = true;
 
     String testString;
-
+    String newString;
+    
     //  onCreate
     @Override
     protected void onCreate(Bundle savedInstanceState) {
